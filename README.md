@@ -38,7 +38,7 @@ MD5Checker скрипт для проверки 2 хешей md5
 
 -Cloning an Existing Repository ( Clone with HTTPS )
 
-[git clone] [https://github.com/AnatoliiKyrylenko/MD5Checker.git]
+git clone https://github.com/AnatoliiKyrylenko/MD5Checker.git
 
 -Cloning an Existing Repository ( Clone with SSH )
 
