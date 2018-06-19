@@ -21,14 +21,14 @@
 
 \# bash ./md5checker.sh
 
--Explanation
+## Explanation
 Script for cheking md5sum
 Starting # bash ./md5checker.sh
 Enter first hash
 Enter second hash
 See result
 
-Описание
+## Описание
 MD5Checker скрипт для проверки 2 хешей md5
 Запускаем скрипт # bash ./md5checker.sh
 Вводим первый хеш, жмём Enter
@@ -36,11 +36,11 @@ MD5Checker скрипт для проверки 2 хешей md5
 Если хеши совпадают вернёт "Всё ок"
 Если хеши не совпадают вернёт предупреждение "Нет, что-то не так!"
 
--Cloning an Existing Repository ( Clone with HTTPS )
+## Cloning an Existing Repository ( Clone with HTTPS )
 
 git clone https://github.com/AnatoliiKyrylenko/MD5Checker.git
 
--Cloning an Existing Repository ( Clone with SSH )
+## Cloning an Existing Repository ( Clone with SSH )
 
 git clone [git@github.com:AnatoliiKyrylenko/MD5Checker.git]
 
