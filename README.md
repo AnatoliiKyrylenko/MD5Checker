@@ -22,7 +22,7 @@
 \# bash ./md5checker.sh
 
 ## Explanation
-* Script for cheking md5sum
+Script for cheking md5sum
 * Starting # bash ./md5checker.sh
 * Enter first hash
 * Enter second hash
@@ -42,7 +42,9 @@ git clone https://github.com/AnatoliiKyrylenko/MD5Checker.git
 
 ## Cloning an Existing Repository ( Clone with SSH )
 
-git clone [git@github.com:AnatoliiKyrylenko/MD5Checker.git]
+git clone [git@github.com\:AnatoliiKyrylenko/MD5Checker.git]
+
+---
 
 Mail : AnatoliiKyrylenko@gmail.com
 
