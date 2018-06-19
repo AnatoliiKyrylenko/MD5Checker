@@ -1,7 +1,7 @@
 # MD5Checker
 Script for cheking md5sum
 
-MD5Checker | BASH SCRIPT
+### h1 MD5Checker | BASH SCRIPT
 
 imageb1 imageb2
 
@@ -38,7 +38,7 @@ MD5Checker скрипт для проверки 2 хешей md5
 
 -Cloning an Existing Repository ( Clone with HTTPS )
 
-# git clone [https://github.com/AnatoliiKyrylenko/MD5Checker.git]
+[git clone] [https://github.com/AnatoliiKyrylenko/MD5Checker.git]
 
 -Cloning an Existing Repository ( Clone with SSH )
 
