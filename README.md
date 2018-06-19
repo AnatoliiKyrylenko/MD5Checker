@@ -45,5 +45,7 @@ git clone https://github.com/AnatoliiKyrylenko/MD5Checker.git
 git clone [git@github.com:AnatoliiKyrylenko/MD5Checker.git]
 
 Mail : AnatoliiKyrylenko@gmail.com
+
 Linkedin : https://www.linkedin.com/in/anatolii-kyrylenko
+
 GitHub : https://github.com/AnatoliiKyrylenko
