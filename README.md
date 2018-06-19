@@ -1,6 +1,5 @@
 # MD5Checker
-Script for cheking md5sum
-##<p align="center">MD5Checker | BASH SCRIPT</p>
+<p align="center">MD5Checker | BASH SCRIPT</p>
 <p align="center">
   <img src ="https://github.com/AnatoliiKyrylenko/MD5Checker/blob/master/imageb1.png"/>
       <img src ="https://github.com/AnatoliiKyrylenko/MD5Checker/blob/master/imageb2.png"/>
