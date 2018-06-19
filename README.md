@@ -43,7 +43,7 @@ git clone https://github.com/AnatoliiKyrylenko/MD5Checker.git
 
 ## Cloning an Existing Repository ( Clone with SSH )
 
-git clone (git@github.com\:AnatoliiKyrylenko/MD5Checker.git)
+git clone git@github.com\:AnatoliiKyrylenko/MD5Checker.git
 
 ---
 
