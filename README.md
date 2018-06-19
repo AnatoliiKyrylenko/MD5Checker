@@ -22,19 +22,19 @@
 \# bash ./md5checker.sh
 
 ## Explanation
-Script for cheking md5sum
-Starting # bash ./md5checker.sh
-Enter first hash
-Enter second hash
-See result
-
+* Script for cheking md5sum
+* Starting # bash ./md5checker.sh
+* Enter first hash
+* Enter second hash
+* See result
+***
 ## Описание
 MD5Checker скрипт для проверки 2 хешей md5
-Запускаем скрипт # bash ./md5checker.sh
-Вводим первый хеш, жмём Enter
-Вводим второй хеш, жмём Enter
-Если хеши совпадают вернёт "Всё ок"
-Если хеши не совпадают вернёт предупреждение "Нет, что-то не так!"
+* Запускаем скрипт # bash ./md5checker.sh
+* Вводим первый хеш, жмём Enter
+* Вводим второй хеш, жмём Enter
+* Если хеши совпадают вернёт "Всё ок"
+* Если хеши не совпадают вернёт предупреждение "Нет, что-то не так!"
 
 ## Cloning an Existing Repository ( Clone with HTTPS )
 
