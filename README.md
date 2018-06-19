@@ -5,21 +5,21 @@
       <img src ="https://github.com/AnatoliiKyrylenko/MD5Checker/blob/master/imageb2.png"/>
 </p>
 
--Programming Languages :
+##Programming Languages :
 
     BASH
 
--System :
+##System :
 
     Linux
 
--Tested  
+##Tested  
 
     Ubuntu 16
 
--RUN
+##RUN
 
-# bash ./md5checker.sh
+\# bash ./md5checker.sh
 
 -Explanation
 Script for cheking md5sum
